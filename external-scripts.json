@@ -16,6 +16,5 @@
   "hubot-answers",
   "hubot-jira-linkifier",
   "hubot-currency",
-  "hubot-praise",
-  "hubot-voting"
+  "hubot-praise"
 ]
