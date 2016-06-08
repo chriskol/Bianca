@@ -1,6 +1,6 @@
 [
   "hubot-diagnostics",
-    "hubot-rules",
+  "hubot-rules",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-maps",
@@ -18,5 +18,4 @@
   "hubot-currency",
   "hubot-praise",
   "hubot-secret-ballot",
-  "hubot-env"
 ]
