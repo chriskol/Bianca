@@ -13,7 +13,6 @@
   "hubot-maps",
   "hubot-mlbot",
   "hubot-answers",
-  "hubot-fliptable",
-  "hubot-trivia-game"
+  "hubot-fliptable"
 
 ]
