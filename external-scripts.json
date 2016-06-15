@@ -5,6 +5,7 @@
   "hubot-redis-brain",
   "hubot-jira-linkifier",
   "hubot-auth",
+  "hubot-standup"
   "hubot-praise",
   "hubot-thank-you",
   "hubot-rules",
