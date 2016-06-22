@@ -4,7 +4,7 @@
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
   "hubot-jira-linkifier",
-  "hubot-auth-latest",
+  "hubot-auth",
   "hubot-standup",
   "hubot-praise",
   "hubot-thank-you",
