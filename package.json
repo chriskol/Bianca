@@ -7,7 +7,7 @@
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-answers": "^0.2.1",
-    "hubot-auth": "^1.2.0",
+    "hubot-auth-latest": "latest",
     "hubot-bitbucket-pr": "^0.5.2",
     "hubot-cah": "latest",
     "hubot-calculator": ">= 0.4.0",
