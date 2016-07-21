@@ -15,6 +15,10 @@
   "hubot-maps",
   "hubot-mlbot",
   "hubot-answers",
-  "hubot-fliptable"
+  "hubot-fliptable",
+  "hubot-rules",
+  "hubot-calculator",
+  "hubot-currency"
+
 
 ]

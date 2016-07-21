@@ -8,10 +8,7 @@
   "hubot-standup",
   "hubot-praise",
   "hubot-thank-you",
-  "hubot-rules",
   "hubot-qr-generator",
-  "hubot-calculator",
-  "hubot-currency",
   "hubot-mlbot",
   "hubot-answers"
 ]
