@@ -10,5 +10,6 @@
   "hubot-thank-you",
   "hubot-qr-generator",
   "hubot-mlbot",
-  "hubot-answers"
+  "hubot-answers",
+  "hubot-env"
 ]

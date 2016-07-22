@@ -11,8 +11,6 @@
     "hubot-bitbucket-pr": "^0.5.2",
     "hubot-cah": "latest",
     "hubot-calculator": ">= 0.4.0",
-    "hubot-coffee": "^0.2.1",
-    "hubot-community-welcome": "0.0.0",
     "hubot-currency": "latest",
     "hubot-diagnostics": "0.0.1",
     "hubot-env": "0.0.2",
