@@ -11,5 +11,6 @@
   "hubot-qr-generator",
   "hubot-mlbot",
   "hubot-answers",
-  "hubot-env"
+  "hubot-env",
+  "hubot-schedule"
 ]
