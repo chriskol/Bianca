@@ -32,7 +32,7 @@
     "hubot-standup": "miyagawa/hubot-standup",
     "hubot-thank-you": "0.0.3",
     "hubot-trivia-game": "yincrash/hubot-trivia-game",
-    "hubot-schedule": "~0.5.1"
+    "hubot-schedule": "~0.6.1"
   },
   "engines": {
     "node": "0.10.x"
