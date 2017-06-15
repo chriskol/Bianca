@@ -31,8 +31,7 @@
     "hubot-slack": "^4.3.4",
     "hubot-standup": "miyagawa/hubot-standup",
     "hubot-thank-you": "0.0.3",
-    "hubot-trivia-game": "yincrash/hubot-trivia-game",
-    "hubot-schedule-delete": "~0.6.1"
+    "hubot-trivia-game": "yincrash/hubot-trivia-game"
   },
   "engines": {
     "node": "0.10.x"
