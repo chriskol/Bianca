@@ -1,11 +1,11 @@
 {
-  "name": "Bianca",
-  "version": "0.1.0",
+  "name": "bianca",
+  "version": "1.1.0",
   "private": true,
   "author": "ChrisKol <chris@chriskol.com>",
-  "description": "A helpful and playful robot for Fundmetric",
+  "description": "Just a mouse with finer tastes looking to help those in need.",
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^3.0.1",
     "hubot-answers": "latest",
     "hubot-auth": "hubot-scripts/hubot-auth",
     "hubot-bitbucket-pr": "latest",
@@ -33,6 +33,6 @@
     "hubot-trivia-game": "yincrash/hubot-trivia-game"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "> 4.0.0"
   }
 }
