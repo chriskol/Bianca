@@ -5,42 +5,6 @@
   "author": "ChrisKol <chris@chriskol.com>",
   "description": "A helpful and playful robot for Fundmetric",
   "dependencies": {
-     "async": ">=0.1.0 <1.0.0",
-    "chalk": "^1.0.0",
-    "cline": "^0.8.2",
-    "coffee-script": "1.6.3",
-    "connect-multiparty": "^1.2.5",
-    "express": "^3.21.2",
-    "log": "1.4.0",
-    "optparse": "1.0.4",
-"scoped-http-client": "0.11.0"
-  },
-  "devDependencies": {
-    "chai": "~2.1.0",
-    "coveralls": "^2.13.1",
-    "mocha": "^2.1.0",
-    "mockery": "^1.4.0",
-    "nyc": "^11.0.2",
-    "sinon": "~1.17.0",
-    "sinon-chai": "^2.8.0",
-    "standard": "^10.0.2",
-    "semantic-release": "^6.3.6"
-},
-  "engines": {
-     "node": "> 4.0.0",
-     "npm": "> 2.0.0"
-  },
-  "main": "./index",
-  "bin": {
-"hubot": "./bin/hubot"
-  },
-  "scripts": {
-    "start": "bin/hubot",
-    "pretest": "standard",
-    "test": "nyc --reporter=html --reporter=text mocha",
-    "coverage": "nyc report --reporter=text-lcov | coveralls",
-    "test:smoke": "node src/**/*.js",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
     "hubot": "^3.0.1",
     "hubot-answers": "latest",
     "hubot-auth": "hubot-scripts/hubot-auth",
@@ -67,4 +31,9 @@
     "hubot-standup": "miyagawa/hubot-standup",
     "hubot-thank-you": "latest",
     "hubot-trivia-game": "yincrash/hubot-trivia-game"
+  },
+  "engines": {
+     "node": "> 4.0.0",
+     "npm": "> 2.0.0"
+  }
 }
