@@ -5,7 +5,7 @@
   "author": "ChrisKol <chris@chriskol.com>",
   "description": "A helpful and playful robot for Fundmetric",
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^3.0.1",
     "hubot-answers": "latest",
     "hubot-auth": "hubot-scripts/hubot-auth",
     "hubot-bitbucket-pr": "latest",
