@@ -12,6 +12,5 @@
   "hubot-mlbot",
   "hubot-answers",
   "hubot-secret-ballot",
-  "hubot-voting",
   "hubot-env"
 ]
