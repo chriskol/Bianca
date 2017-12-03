@@ -21,7 +21,8 @@
     "hubot-slack": "latest",
     "hubot-standup": "miyagawa/hubot-standup",
     "hubot-thank-you": "latest",
-    "hubot-trivia-game": "yincrash/hubot-trivia-game"
+    "hubot-trivia-game": "yincrash/hubot-trivia-game",
+    "hubot-versions": "^0.2.2"
   },
   "engines": {
     "node": "> 4.0.0"
