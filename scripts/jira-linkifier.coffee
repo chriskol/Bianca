@@ -34,7 +34,7 @@ module.exports = (robot) ->
 
   prefixList = prefixes.join('|')
   ticketRegExp = new RegExp "(^|\\s+)(#{prefixList})-[0-9]+($|\\s+)", "gi"
-  # ticketRegExp = new RegExp "(^|\\s+)(#{prefixList})-[0-9]+(($|\\s+)|(\!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~))", "gi"
+  # ticketRegExp = new RegExp "(^|\\s+)(#{prefixList})-[0-9]+($|\\s+)|(\!\"\#\$\%\&\'\(\)\*\+\,\-\.\/\:\;\<\=\>\?\@\[\\\]\^\_\`\{\|\}\~)", "gi"
 
 
   robot.hear ticketRegExp, (res) ->
