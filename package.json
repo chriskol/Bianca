@@ -12,7 +12,7 @@
     "hubot-env": "latest",
     "hubot-help": "latest",
     "hubot-heroku-keepalive": "latest",
-    "hubot-jira-linkifier": "github:chriskol/hubot-jira-linkifier/",
+    "hubot-jira-linkifier": "github:chriskol/hubot-jira-linkifier",
     "hubot-mlbot": "latest",
     "hubot-praise": "latest",
     "hubot-qr-generator": "latest",
