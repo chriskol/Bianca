@@ -12,7 +12,11 @@
     "hubot-env": "latest",
     "hubot-help": "latest",
     "hubot-heroku-keepalive": "latest",
+<<<<<<< HEAD
     "hubot-jira-linkifier": "github:chriskol/hubot-jira-linkifier",
+=======
+    "hubot-jira-linkifier": "github:xkickflip/hubot-jira-linkifier",
+>>>>>>> parent of 1bbc955... Update Jira Linkifier
     "hubot-mlbot": "latest",
     "hubot-praise": "latest",
     "hubot-qr-generator": "latest",
