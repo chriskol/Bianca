@@ -5,7 +5,7 @@
   "author": "ChrisKol <chris@chriskol.com>",
   "description": "Just a mouse with finer tastes looking to help those in need.",
   "dependencies": {
-    "hubot": "^3.0.1",
+    "hubot": "latest",
     "hubot-answers": "latest",
     "hubot-auth": "github:hubot-scripts/hubot-auth",
     "hubot-diagnostics": "latest",
@@ -21,7 +21,7 @@
     "hubot-standup": "github:miyagawa/hubot-standup",
     "hubot-thank-you": "latest",
     "hubot-trivia-game": "github:yincrash/hubot-trivia-game",
-    "hubot-versions": "^0.2.2"
+    "hubot-versions": "latest"
   },
   "engines": {
     "node": "> 4.0.0"
