@@ -19,7 +19,8 @@
     "hubot-slack": "^4.5.5",
     "hubot-standup": "github:miyagawa/hubot-standup",
     "hubot-thank-you": "latest",
-    "hubot-versions": "latest"
+    "hubot-versions": "latest",
+    "say-with-hubot": "^1.0.1"
   },
   "engines": {
     "node": "> 4.0.0"
