@@ -10,5 +10,6 @@
   "hubot-qr-generator",
   "hubot-mlbot",
   "hubot-answers",
+  "say-with-hubot",
   "hubot-versions"
 ]
